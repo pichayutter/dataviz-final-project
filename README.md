@@ -30,15 +30,12 @@ S1 : This answer Q1 which allows the interaction between user to select the dist
 ![image](https://user-images.githubusercontent.com/70537588/94599541-9088d500-025e-11eb-8d8d-16a562ed70b6.png)
 S2 : This sketch answer Q2 which we can see the density (and also the circle size) to see trend of where HIV patient lives around Bangkok. This can improve the quality of cure spefically to that district.
 
-![image](https://user-images.githubusercontent.com/70537588/94599963-3a686180-025f-11eb-836e-cdd564c6ed77.png)
-S3 : This answers the Q3 where we aggregate just by quarter so total number of HIV patients in Bangkok can be analyzed.
-
 ## Schedule of Deliverables
 
  * Implement the interactive Bangkok map, including the ability to select multiple regions and the tooltip of each district number when mouse is hovered (To keep it simple without integrating the district name, I will keep the district number as main label. This will be changed to "Thai" district name later as an add-on after the project). Then, I will integrate the data into Bangkok map (S2). The circle size depends on the number of HIV patients on each district **by 14 October**
  
  * Add the interactive menu into the map (S2). This will allow the user to select which data to show in which quarter. **by 21 October**
  
- * Implement S3 which combined all districts data together into the aggregated information each quarter as the Bar Chart. **by 28 October**
+ * [Deleted from plan: will focus on the interaction on two charts for final project] Implement S3 which combined all districts data together into the aggregated information each quarter as the Bar Chart. **by 28 October**
  
  * Add the interaction between selected region on maps to other chart (e.g. Line Chart, Bar Chart). **by 4 November**
