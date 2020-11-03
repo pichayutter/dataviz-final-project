@@ -1,6 +1,6 @@
 # Data Visualization Project
 
-The interactive tool displaying HIV patient information.
+The interactive tool displaying HIV patient information of Bangkok.
 
 ## Table of contents
 * [Data](#data)
