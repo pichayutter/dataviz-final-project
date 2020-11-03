@@ -6,7 +6,6 @@
 * [Sketches](#sketches)
 * [Visualizations](#visualizations)
 * [Project Dashboard](#project-dashboard)
-* [Future Work](#future-work)
 * [Project Video](#project-video)
 
 ## Data
@@ -65,3 +64,7 @@ For example, as shown in the picture below, the data presents overall trend of n
 This dashboard consists of both visualizations which are linkable to each other. The map allows selecting the district region for comparison (instead of using its own dropdown menu). However since there is some data being shown in the map itself which causes come trouble when selecting the region. I intregated new toggle function which allows the user to toggle between (1) selection mode and (2) non-selection mode. The selection mode will hide all data in the map, so it is easily used for region selection. Key Shortcut for toggling between modes is pressing key 'S'.
 
 [![ezgif com-gif-maker](https://user-images.githubusercontent.com/70537588/97956739-0d6a1a00-1ddc-11eb-8520-9169b89b468e.gif)](https://vizhub.com/pichayutter/704e01741dd74357a6e4a521cb562835)
+
+## Project Video
+
+TBD
