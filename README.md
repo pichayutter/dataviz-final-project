@@ -1,5 +1,7 @@
 # Data Visualization Project
 
+The interactive tool displaying HIV patient information.
+
 ## Table of contents
 * [Data](#data)
 * [Questions](#questions)
