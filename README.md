@@ -1,5 +1,14 @@
 # Data Visualization Project
 
+## Table of contents
+* [Data](#data)
+* [Questions](#questions)
+* [Sketches](#sketches)
+* [Visualizations](#visualizations)
+* [Project Dashboard](#project-dashboard)
+* [Future Work](#future-work)
+* [Project Video](#project-video)
+
 ## Data
 
 The data I proposed to visualize for my project is the data from [Bangkok Smart Monotoring System](https://www.bkkbsms.com) which is the tool that keeps track of the HIV patient information. Its goal is to improve the quality of healthcare service and improve the HIV statistics in Bangkok overall. The data was processed into CSV provided in [Github Gist](https://gist.github.com/pichayutter/745d24ba99b6c30a4ba67b450ffe19c2). It contains the aggregated data of currently-on-treatment and new patient by quarter and district (out of 50 districts of Bangkok). 
@@ -50,3 +59,9 @@ For example, as shown in the picture below, the data presents overall trend of n
 [![image](https://user-images.githubusercontent.com/70537588/97955833-bd8a5380-1dd9-11eb-938e-d54c3b4fc655.png)](https://vizhub.com/pichayutter/59557407084343e285357428b6f36885)
 
 <!--## Schedule of Deliverables * Implement the interactive Bangkok map, including the ability to select multiple regions and the tooltip of each district number when mouse is hovered (To keep it simple without integrating the district name, I will keep the district number as main label. This will be changed to "Thai" district name later as an add-on after the project). Then, I will integrate the data into Bangkok map (S2). The circle size depends on the number of HIV patients on each district **by 14 October** * Add the interactive menu into the map (S2). This will allow the user to select which data to show in which quarter. **by 21 October** * [Deleted from plan: will focus on the interaction on two charts for final project] Implement S3 which combined all districts data together into the aggregated information each quarter as the Bar Chart. **by 28 October* * Add the interaction between selected region on maps to other chart (e.g. Line Chart, Bar Chart). **by 4 November**-->
+
+## Project Dashboard
+
+This dashboard consists of both visualizations which are linkable to each other. The map allows selecting the district region for comparison (instead of using its own dropdown menu). However since there is some data being shown in the map itself which causes come trouble when selecting the region. I intregated new toggle function which allows the user to toggle between (1) selection mode and (2) non-selection mode. The selection mode will hide all data in the map, so it is easily used for region selection. Key Shortcut for toggling between modes is pressing key 'S'.
+
+[![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/70537588/97956280-d6dfcf80-1dda-11eb-9595-55572f1f9c65.gif)](https://vizhub.com/pichayutter/704e01741dd74357a6e4a521cb562835)
