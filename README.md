@@ -69,4 +69,4 @@ This dashboard consists of both visualizations which are linkable to each other.
 
 ## Project Video
 
-TBD
+[Youtube Link](https://www.youtube.com/watch?v=bdm3IOB1vnk)
